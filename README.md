@@ -17,6 +17,6 @@ plot of RC voltage versus time.
 
 ![Annotated RC circuit step response](Response_Plot.png)
 <br>
-Figure 1. RC circuit response to step input; *R* = 51 k&Omega;, *C* = 3.3 &mu;F.
+Figure 1. Annotated RC circuit step response; *R* = 51 k&Omega;, *C* = 3.3 &mu;F.
 
 The experimental and theoretical time constants closely match, with a percent error of 5-10%.
